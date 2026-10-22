@@ -1,0 +1,7 @@
+url: https://github.com/RAK7S/dsh-weather-whisper
+name: RAK7S/dsh-weather-whisper
+category: ui
+description:
+  en: Weather card shown once per session, with theme presets, custom separators and a runtime theme API.
+  zh: 每次启动出现一次的天气卡片，带主题预设、自定义分隔线与运行时主题接口。
+tarball: https://github.com/RAK7S/dsh-weather-whisper/releases/download/v0.3.0/dsh-weather-whisper-0.3.0.tgz
