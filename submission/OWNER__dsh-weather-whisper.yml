@@ -1,0 +1,9 @@
+# 放到 awesome-dsh-plugin 仓库的 data/plugins/ 下
+# 文件名：<owner>__dsh-weather-whisper.yml（把 <owner> 换成你的 GitHub 用户名）
+url: https://github.com/OWNER/dsh-weather-whisper
+name: OWNER/dsh-weather-whisper
+category: ui
+description:
+  en: A launch-time weather card for the DSH web GUI showing current conditions, tomorrow, the coming week, rough-weather hints and what to wear, with a built-in theme editor.
+  zh: DSH 网页端的天气卡片：启动时显示当前天气、明日、未来一周、极端天气提示与穿衣建议，自带换色与小图案的编辑器。
+tarball: https://github.com/OWNER/dsh-weather-whisper/releases/download/v0.3.0/dsh-weather-whisper-0.3.0.tgz
