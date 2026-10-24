@@ -1,6 +1,6 @@
 {
   "name": "dsh-weather-whisper",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "A gentle weather greeting for DeepSeek Harness: on launch a soft card shows today's weather, tomorrow, the coming week, rough weather ahead and what to wear, with a small built-in theme editor.",
   "type": "module",
   "main": "index.js",
@@ -10,8 +10,13 @@
     "./package.json": "./package.json"
   },
   "dsh": {
-    "bundle": { "patch": "./cordis.patch.yml" },
-    "client": { "platform": "web", "immediately": true }
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true
+    }
   },
   "files": [
     "index.js",
@@ -22,6 +27,13 @@
     "README.md",
     "LICENSE"
   ],
-  "keywords": ["dsh", "dsh-plugin", "dsh-client-plugin", "weather", "greeting", "theme"],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "dsh-client-plugin",
+    "weather",
+    "greeting",
+    "theme"
+  ],
   "license": "MIT"
 }
