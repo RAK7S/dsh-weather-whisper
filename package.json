@@ -1,6 +1,6 @@
 {
   "name": "dsh-weather-whisper",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A gentle weather greeting for DeepSeek Harness: on launch a soft card shows today's weather, tomorrow, the coming week, rough weather ahead and what to wear, with a small built-in theme editor.",
   "type": "module",
   "main": "index.js",
